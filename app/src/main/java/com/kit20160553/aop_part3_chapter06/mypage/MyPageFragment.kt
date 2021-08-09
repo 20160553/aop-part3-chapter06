@@ -1,6 +1,7 @@
 package com.kit20160553.aop_part3_chapter06.mypage
 
 import android.os.Bundle
+import android.util.Log
 import android.view.View
 import android.widget.Toast
 import androidx.core.widget.addTextChangedListener
